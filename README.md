@@ -29,7 +29,7 @@ def mean_filtered(image, filter_size): #mendefinisikan fungsi dengan berdasarkan
 
 memanggil dan membaca citra yang akan diolah atau difilter dengan di-inisialisasi image_color
 ```bash
-image_color = cv2.imread("ulya.jpg")
+image_color = cv2.imread("ulyaaa.jpg")
 ```
 
 bagian pendefinisian dengan inisialisasi
